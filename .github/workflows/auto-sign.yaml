@@ -7,8 +7,8 @@ on:
     - cron: "0 0 * * *"
 
 env:
-  SM_USERNAME: ${{ secrets.SM_USERNAME }}
-  SM_PASSWORD: ${{ secrets.SM_PASSWORD }}
+  SM_USERNAME: 18658242424
+  SM_PASSWORD: Damowang66
 
 jobs:
   build:
